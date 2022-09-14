@@ -5,7 +5,7 @@ for(i=2;i<num;i++){
           bag=false;            
 }
 }
-if(bag==ftrue){
+if(bag==true){
    console.log("Prime Number");
 }
 else {
